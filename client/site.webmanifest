@@ -1,0 +1,15 @@
+{
+  "name": "MAFA Accounting Services & Advisory",
+  "short_name": "MAFA Accounting",
+  "icons": [
+    {
+      "src": "/images/mafa-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "theme_color": "#1e293b",
+  "background_color": "#fafaf9",
+  "display": "standalone"
+}
